@@ -12,6 +12,8 @@ Through working together, you will find I am responsive, communicative, transpar
 <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/8TEoXxyzc_aladdinGene.gif" width="35" height="35"/> I am ready to start your project anytime.
 
 ## Skills
+- 🖥️ <b>E-commerce Development</b> :Shopify, Shopify Plus, Shopify Theme, Shopify SEO, Shopify template, Shopify App
+
 - 🖥️ <b>Front-end</b> : React js - Redux / Next.js / Svelte / TypeScript / Vue.js / Angular / JQuery / Bootstrap / Kendo UI
 - 👨‍💻 <b>Back-end</b> : Laravel / Node.js / Express / Django / Flask / ASP.NET / Ruby on Rails
 - 📱 <b>Mobile</b> : Android - Java, Kotlin / iOS - Objective-C, Swift / Hybrid - Flutter, React Native
